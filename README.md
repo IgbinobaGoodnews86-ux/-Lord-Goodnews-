@@ -1,2 +1,1 @@
-# -Lord-Goodnews-
-Lord Goodnews 
+<!Doctype html>
